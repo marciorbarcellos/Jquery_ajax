@@ -1,2 +1,2 @@
-# aula_jquery_ajax
-Introdução ao JQuery a Ajax
+# Jquery_Ajax
+Introdução ao JQuery e Ajax
