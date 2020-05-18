@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Jquery ajax Preview] (https://github.com/marciorbarcellos/Jquery_ajax/blob/master/CEP.jpg)
+[![Jquery ajax Preview](https://github.com/marciorbarcellos/Jquery_ajax/blob/master/CEP.jpg)
 
 
 (https://github.com/marciorbarcellos/Jquery_ajax)
