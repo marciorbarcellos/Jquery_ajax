@@ -4,8 +4,8 @@
 
 ## Preview
 
-[![Jquery ajax Preview](https://github.com/marciorbarcellos/sliders/blob/master/Cep.jpg)
+[![Jquery ajax Preview](https://github.com/marciorbarcellos/Jquery_ajax/blob/master/CEP.jpg)
 
 
-(https://github.com/marciorbarcellos/Jquery_ajax)
+(https://github.com/marciorbarcellos/Jquery_ajax
 
