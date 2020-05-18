@@ -1,4 +1,4 @@
-# [Jquery_Ajax - DIGITAL INNOVATION ONE](https://github.com/marciorbarcellos/Jquery_ajax)
+# [Jquery Ajax - Digital Innovation One](https://github.com/marciorbarcellos/Jquery_ajax)
 
 [Jquery_ajax](https://github.com/marciorbarcellos/Jquery_ajax)
 
