@@ -1,11 +1,9 @@
-# [Jquery Ajax - Digital Innovation One](https://github.com/marciorbarcellos/Jquery_ajax)
+# [Jquery Ajax - Bootcamp Digital Innovation One](https://github.com/marciorbarcellos/Jquery_ajax)
 
 ## Preview
+Repositório com exercícios de JQuery e Ajax
+Criação de Home Page com função de busca de CEP
 
-[![Jquery ajax Preview](https://github.com/marciorbarcellos/Jquery_ajax/blob/master/CEP.jpg)
-
+[![Busca CEP](https://i.imgur.com/EEBWLhl.jpg "Busca CEP")](https://i.imgur.com/EEBWLhl.jpg "Busca CEP")
 
 (https://github.com/marciorbarcellos/Jquery_ajax)
-
-
-
